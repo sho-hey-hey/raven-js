@@ -10,8 +10,9 @@
 docs/_build
 docs/doctrees
 
-build
-node_modules
+build/
+coverage/
+node_modules/
 plugins/combinations
 npm-debug.log
 

@@ -9,7 +9,6 @@
     "target": "es5",
     "lib": ["es2015"],
     "skipLibCheck": true,
-    "types": [],
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
     "sourceMap": true,
